@@ -19,4 +19,3 @@ test('properly outputs the given rectangles information to console log in string
     expect(global.console.log).toHaveBeenCalledWith('The perimeter of a rectangle is 30 and the area is 50')
 })
 
-console.log('1')
