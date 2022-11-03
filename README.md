@@ -1,2 +1,15 @@
 # hometask01-berling
-Evolution QA Bootcamp home task 01
+
+# Setup  
+
+
+Clone this repository to your workstation.  
+
+Enter the root directory
+
+Run the `yarn` command to install all dependencies.  
+
+
+# Tests
+Run `yarn test` to check test command output.  
+  
