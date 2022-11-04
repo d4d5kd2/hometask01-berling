@@ -1,5 +1,3 @@
-const { JS_EXT_TO_TREAT_AS_ESM } = require("ts-jest");
-
 const getRectanglePerimeter = require("../js/rectangle").first;
 const getRectangleArea = require("../js/rectangle").second;
 const getRectangleInfo = require("../js/rectangle").third;
