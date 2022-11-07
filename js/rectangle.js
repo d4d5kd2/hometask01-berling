@@ -12,6 +12,6 @@ function getRectangleInfo(length, width) {
     return console.log(`The perimeter of a rectangle is ${perimeter} and the area is ${area}`)
 }
 
-module.exports.first = getRectanglePerimeter
-module.exports.second = getRectangleArea
-module.exports.third = getRectangleInfo
+module.exports.getRectanglePerimeter = getRectanglePerimeter
+module.exports.getRectangleArea = getRectangleArea
+module.exports.getRectangleInfo = getRectangleInfo
