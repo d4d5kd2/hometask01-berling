@@ -1,6 +1,6 @@
-const getRectanglePerimeter = require("../js/rectangle").first;
-const getRectangleArea = require("../js/rectangle").second;
-const getRectangleInfo = require("../js/rectangle").third;
+const getRectanglePerimeter = require("../js/rectangle").getRectanglePerimeter;
+const getRectangleArea = require("../js/rectangle").getRectangleArea;
+const getRectangleInfo = require("../js/rectangle").getRectangleInfo;
 
 
 
